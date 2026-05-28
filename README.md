@@ -29,6 +29,7 @@ I build projects using:
 - Marketing Performance Analysis
 
 ## Let's Connect
+Linkdln [Blessing Chika](https://www.linkedin.com/in/blessing-chika-a53b6b395?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 I'm open to:
 - Collaborations
 - Entry-level Data Analyst roles
