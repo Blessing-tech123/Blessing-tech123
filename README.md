@@ -3,7 +3,7 @@
 ## About Me
 I'm a Data Analyst with a passion for turning data into insights that support smarter decisions.
 
-I work with data to uncover patterns, analyze trends, and build clear data-driven solutions through analysis and visualization. Myfocus is on creating meaningful insights and interactive dashboard that help organizations understand their data effectively.
+I work with data to uncover patterns, analyze trends, and build clear data-driven solutions through analysis and visualization. My focus is on creating meaningful insights and interactive dashboard that help organizations understand their data effectively.
 
 I build projects using:
 - Excel
