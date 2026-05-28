@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there 👋 I'm Blessing
 
-<!--
-**Blessing-tech123/Blessing-tech123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a Data Analyst with a passion for turning data into insights that support smarter decisions.
 
-Here are some ideas to get you started:
+I work with data to uncover patterns, analyze trends, and build clear data-driven solutions through analysis and visualization. Myfocus is on creating meaningful insights and interactive dashboard that help organizations understand their data effectively.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build projects using:
+- Excel
+- Power BI
+- SQL
+
+---
+
+## Key Skills
+- Data Cleaning & Transformation
+- Excel for Data Analysis & Dashboard Creation
+- Power BI for Data Visualization
+- SQL for Querying & Data Exploration
+- Data Interpretation & insight Generation
+- Priblem Solving with Data
+
+---
+
+## Projects
+- Excell Payroll Analysis
+- Data Cleaning
+- Dashboard Design
+- Marketing Performance Analysis
+
+## Let's Connect
+I'm open to:
+- Collaborations
+- Entry-level Data Analyst roles
+- Opportunities to contribute to data-driven projects and business solutions.
+
