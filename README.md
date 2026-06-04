@@ -23,9 +23,9 @@ I build projects using:
 ---
 
 ## Projects
-- Excell Payroll Analysis
-- Data Cleaning
-- Dashboard Design
+- Excel Payroll Analysis
+- Data Cleaning and Transformation Techniques 
+- Sales Performance Dashboard 
 - Marketing Performance Analysis
 
 ## Let's Connect
